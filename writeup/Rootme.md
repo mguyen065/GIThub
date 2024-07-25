@@ -83,3 +83,7 @@ Bonne chance ! :)
 * Le dernier flag est dans la récupération des fichiers qui apparaissent dans les paquets NFS dans l'image ci-dessus mais je n'ai pas réussi à les reconstituer.
 
 ![alt text](<Screenshots/Capture d'écran 2024-07-25 131722.png>)
+
+* Network File System (ou NFS) est un protocole qui permet à un ordinateur d'accéder via un réseau à des fichiers distants. Il fait partie de la couche application du modèle OSI et utilise le protocole RPC. 
+   
+* Ce système de fichiers en réseau permet de partager des données principalement entre systèmes UNIX. Des versions existent pour Macintosh ou Microsoft Windows.
