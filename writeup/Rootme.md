@@ -27,8 +27,7 @@ Bonne chance ! :)
 * le sha256sum est le hash du fichier :  chall_wireshark.pcapng qui est donné dans le challenge.
 
 
-![](../Users/CEFIM/Pictures/Screenshots/Wireshrkrootme.png)
 
 
+![alt text](Screenshots/Wireshrkrootme.png)
 
-![](../Users/CEFIM/Pictures/Screenshots/CaptureFTP.png)
