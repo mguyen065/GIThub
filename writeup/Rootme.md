@@ -24,12 +24,13 @@ Bonne chance ! :)
 
 ## Réponse 
 
-le sha256sum est le hash du fichier :  **chall_wireshark.pcapng** qui est donné dans le challenge.
+**le sha256sum est le hash du fichier :  **chall_wireshark.pcapng** qui est donné dans le challenge.**
+
 
 ![all text](Screenshots/Wireshrkrootme.png "Capture de wireshark")
 
 
-Pour voir s'il y a des fichiers à exporter aller dans fichier en haut à droite puis exporter paquet selon le type SMB FTP NFS.
+**Pour voir s'il y a des fichiers à exporter aller dans fichier en haut à droite puis exporter paquet selon le type SMB FTP NFS.**
 
 
 
@@ -39,7 +40,7 @@ Pour voir s'il y a des fichiers à exporter aller dans fichier en haut à droite
 
 ![alt text](Screenshots/resultFTP.png)
 
-Cliquer sur tout enregistrer en choisissant le dossier choisi, les fichiers seront enregistrer sur celui-ci, les consulter avec l'explorateur de fichiers.
+**Cliquer sur tout enregistrer en choisissant le dossier choisi, les fichiers seront enregistrer sur celui-ci, les consulter avec l'explorateur de fichiers.**
 
 
 
@@ -50,9 +51,9 @@ Cliquer sur tout enregistrer en choisissant le dossier choisi, les fichiers sero
 ![alt text](Screenshots/ResultSMB.png)
 
 
-Même opération que ci-dessus.
+**Même opération que ci-dessus.**
 
-Les deux premiers flags sont dans books.pdf et %2fhome%2ftidusrose%2fFTP%2fcat2.png
+**Les deux premiers flags sont dans books.pdf et %2fhome%2ftidusrose%2fFTP%2fcat2.png**
   
 
 
@@ -66,10 +67,10 @@ Les deux premiers flags sont dans books.pdf et %2fhome%2ftidusrose%2fFTP%2fcat2.
 
 ![alt text](<Screenshots/Capture d'écran 2024-07-25 124933.png>)
 
-Le dernier flag est dans la récupération des fichiers qui apparaissent dans les paquets NFS dans l'image ci-dessus mais je n'ai pas réussi à les reconstituer.
+**Le dernier flag est dans la récupération des fichiers qui apparaissent dans les paquets NFS dans l'image ci-dessus mais je n'ai pas réussi à les reconstituer.**
 
 ![alt text](<Screenshots/Capture d'écran 2024-07-25 131722.png>)
 
-Network File System (ou NFS) est un protocole qui permet à un ordinateur d'accéder via un réseau à des fichiers distants. Il fait partie de la couche application du modèle OSI et utilise le protocole RPC. 
+**Network File System (ou NFS) est un protocole qui permet à un ordinateur d'accéder via un réseau à des fichiers distants. Il fait partie de la couche application du modèle OSI et utilise le protocole RPC.**
    
-Ce système de fichiers en réseau permet de partager des données principalement entre systèmes UNIX. Des versions existent pour Macintosh ou Microsoft Windows.
+**Ce système de fichiers en réseau permet de partager des données principalement entre systèmes UNIX. Des versions existent pour Macintosh ou Microsoft Windows.**
